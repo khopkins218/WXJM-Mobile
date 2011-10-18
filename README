@@ -1,18 +1,13 @@
-Welcome to your Appcelerator Titanium Mobile Project
+WXJM Mobile
 
-This is a blank project.  Start by editing your application's app.js to 
-make your first mobile project using Titanium.
+This is an iOS project for WXJM, the student run radio station of James Madison University.
+WXJM has a link on their website to allow for streaming online, but why not make it more accessible
+for those of us who want accessibility at the forefront, iOS users.
 
+Enter WXJM mobile, a one tab instant streaming application produced for WXJM by me, Kevin L. Hopkins
+for their usage and distribution through the app store.
 
+As long as they keep the hard work rolling over the air, I'll make sure they're covered on the mobile front.
 
-----------------------------------
-Stuff our legal folk make us say:
-
-Appcelerator, Appcelerator Titanium and associated marks and logos are 
-trademarks of Appcelerator, Inc. 
-
-Titanium is Copyright (c) 2009-2010 by Appcelerator, Inc. All Rights Reserved.
-
-Titanium is licensed under the Apache Public License (Version 2). Please
-see the LICENSE file for the full license.
-
+@todo:
+Write code for Android as well.
